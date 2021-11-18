@@ -1,6 +1,0 @@
-new content in new file
-
-new cont ot index
-
-git add
-try to undo commit
