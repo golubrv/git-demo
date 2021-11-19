@@ -9,3 +9,6 @@ ELENA	e (second commit in feature branch)
 
 FAILNA	F (commit in feature branch parallel with main(!))
 
+---------------------------- emulate branch conflict
+
+
