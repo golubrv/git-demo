@@ -12,3 +12,4 @@ FAILNA	F (commit in feature branch parallel with main(!))
 ---------------------------- emulate branch conflict
 
 
+HAZEL	H (commit 6th string in song.txt (feature branch || with main)
