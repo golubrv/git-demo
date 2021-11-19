@@ -14,3 +14,4 @@ FAILNA	F (commit in feature branch parallel with main(!))
 GIANA	G (new string and new commit in main branch)
 
 
+HAZEL	H (commit 6th string in song.txt (feature branch || with main)
