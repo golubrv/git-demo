@@ -11,4 +11,6 @@ FAILNA	F (commit in feature branch parallel with main(!))
 
 ---------------------------- emulate branch conflict
 
+GIANA	G (new string and new commit in main branch)
+
 
